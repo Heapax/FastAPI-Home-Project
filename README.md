@@ -19,5 +19,5 @@
 1. "cd" into the directory containing the API script.
 2. Execute the following command:
    `uvicorn working:app --reload`
-   The syntax is as follows: `uvicore <name_of_script>:<name_of_app_in_script> --reload`.
-   note: the `--reload` means that uvicorn will constantly reload the server whenever a change is made to the python file that stores that API.
+   The syntax is as follows:`uvicore <name_of_script>:<name_of_app_in_script> --reload`.
+   _note: the `--reload` means that uvicorn will constantly reload the server whenever a change is made to the python file that stores that API._
