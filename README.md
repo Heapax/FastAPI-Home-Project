@@ -9,10 +9,10 @@
 
 # HTTP methods
 
-1. GET - returns information from the endpoint, "gets" information.
-2. POST - sending information to the endpoint, or creating something new, e.g "posting" a new user login.
-3. PUT - update/modifiy exsiting information.
-4. DELETE - deleting exsiting information.
+- GET - returns information from the endpoint, "gets" information.
+- POST - sending information to the endpoint, or creating something new, e.g "posting" a new user login.
+- PUT - update/modifiy exsiting information.
+- DELETE - deleting exsiting information.
 
 # Running the API
 
