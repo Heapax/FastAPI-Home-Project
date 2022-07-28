@@ -14,7 +14,8 @@
 1.  `pip install fastapi`
 2.  `pip install uvicorn`
 3.  Make a new python file and import FastAPI from fastapi e.g. `from fastapi improt FastAPI`
-4.  To start using the fastAPI we need to create an "app" parameter and assign it the FastAPI method e.g. `app = FastAPI()`
+4.  To start using the fastAPI we need to create an "app" parameter and assign it the FastAPI method
+    e.g. `app = FastAPI()`
 
 ### HTTP methods
 
